@@ -1,3 +1,4 @@
+!(logo)[img/ذمي‎.png]
 # Dhimmi
 
 > Those that pay the Jizya
